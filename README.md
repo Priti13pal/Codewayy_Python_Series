@@ -33,6 +33,7 @@ Task_6 is all about the revision of all the topics which are covered in all abov
 # Task 7 :
 
 Task_7 is about concept of object oriented programming in python
+
 a. To display the full name
 b. To display the college and branch
 c. Display the total marks
