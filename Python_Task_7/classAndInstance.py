@@ -1,7 +1,7 @@
 # Write a program using Python class and objects which should have 5 different functions and should create the 5 different instances of that class and print the details of :
 
 
-class StudentReport:
+class Report:
     
     def __init__(self, firstname, lastname, college, branch, tMarks):
         self.firstname = firstname
@@ -70,7 +70,7 @@ class StudentReport:
 
 
 # Display report:
-student = StudentReport("Priti","pal","YCCE","Computer Technology",[91,89,78,87,90])
+student = Report("Priti","pal","YCCE","Computer Technology",[91,89,78,87,90])
 student.Info()
 
         
